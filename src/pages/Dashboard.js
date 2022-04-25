@@ -1,6 +1,6 @@
 import {
   StyledTitle,
-  StyledSubTitle,
+  // StyledSubTitle,
   Avatar,
   StyledButton,
   ButtonGroup,

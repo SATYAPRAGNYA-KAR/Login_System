@@ -13,8 +13,8 @@ import { StyledContainer } from "./components/Styles";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 
 //Auth & Redux
-import AuthRoute from "./components/AuthRoute";
-import BasicRoute from "./components/BasicRoute";
+// import AuthRoute from "./components/AuthRoute";
+// import BasicRoute from "./components/BasicRoute";
 import { connect } from "react-redux";
 
 function App({ checked }) {

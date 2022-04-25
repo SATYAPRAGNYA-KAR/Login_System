@@ -1,9 +1,9 @@
 //Styled Components
 import {
-  StyledTextInput,
+  // StyledTextInput,
   StyledFormArea,
   StyledFormButton,
-  StyledLabel,
+  // StyledLabel,
   Avatar,
   StyledTitle,
   colors,
